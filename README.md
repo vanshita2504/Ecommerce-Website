@@ -33,6 +33,3 @@ E-cart, is an online platform to order products online. The user can pay through
 <ul>
 <li><a href="https://developer.paypal.com/">PayPal API</a></li>
 </ul>
-<h2>🤩 Don't forget to give ⭐ to this repository </h2>
-<p><a href="https://forthebadge.com" rel="nofollow"><img src="https://camo.githubusercontent.com/d24f2f8414437a9491ea3145cafd373167315d50/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" alt="forthebadge" data-canonical-src="https://forthebadge.com/images/badges/built-with-love.svg" style="max-width:100%;"></a>
-<a href="https://forthebadge.com" rel="nofollow"><img src="https://camo.githubusercontent.com/22cc5639d23aa37f4b1999c2fcefdd07ce338f34/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d62792d646576656c6f706572732e737667" alt="forthebadge" data-canonical-src="https://forthebadge.com/images/badges/built-by-developers.svg" style="max-width:100%;"></a></p>
